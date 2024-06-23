@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://lautarito24.github.io/portafolio/">Lautaro</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://lautarito24.github.io/Portafolio/">Lautaro</a> 👋</h1>
 </div>
 <img src="baner.png">
 - ⭐ Github Star ⭐ 
